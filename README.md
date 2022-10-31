@@ -9,7 +9,7 @@ Interfaz grafica, optimizada para tablet mediante la plataforma Justinmind
 <h1 align=center" >Vista Alumno </h1>
 
 <h3 align=center" >Inicio </h3>
-                   <img src="https://github.com/Mvrtn-design/PASAPALABRA_java_interfaz/blob/main/MenuAdministrador.jpg"/>
+                   <img src="https://github.com/Mvrtn-design/Mobile-Interface---MathApp/blob/main/ilustracion%20Inicio%20Alumno.jpg"/>
 
 <h3 align=center" >Temario</h3>
   
