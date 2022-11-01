@@ -17,7 +17,7 @@ Se muestran a continuación pequeñas caputuras de diversos escenarios dentro de
   <img src="https://github.com/Mvrtn-design/Mobile-Interface---MathApp/blob/Ilustraciones/ilustracion%20Inicio%20Alumno.jpg"/>
                    
 <h3 align=center" >Temario</h3>
-División de la teoría por temas
+División de la teoría por temas de diverso contenido bien sea de texto, ilustrativo y/o  audiovisual.
 <br><br>
 <img src="https://github.com/Mvrtn-design/Mobile-Interface---MathApp/blob/Ilustraciones/ilustracion%20Temario%20Alumno.jpg"/>
  
